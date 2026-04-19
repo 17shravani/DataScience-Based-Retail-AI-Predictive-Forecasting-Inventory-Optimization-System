@@ -75,25 +75,6 @@ To push this ecosystem further toward a complete Enterprise Resource Planning (E
 
 ---
 
-## ⚙️ How to Launch
-
-1.  **Clone & Install:**
-    ```bash
-    git clone https://github.com/your-username/retail-sales-forecasting.git
-    cd retail-sales-forecasting
-    pip install -r requirements.txt
-    ```
-2.  **Execute the Intelligent Pipeline:**
-    ```bash
-    python main.py
-    ```
-    *This triggers: Data Generation → Feature Engineering → Hybrid Training → Financial Optimization.*
-3.  **Launch Dashboard:**
-    ```bash
-    streamlit run app/dashboard.py
-    ```
-
----
 
 ## 💼 Industry Relevance & Portfolio Value
 This project implements the same rigorous mathematical logic found in Tier-1 Supply Chain platforms like **SAP IBP (Integrated Business Planning)** and **Oracle SCM**. It serves as a comprehensive demonstration of:
@@ -103,5 +84,4 @@ This project implements the same rigorous mathematical logic found in Tier-1 Sup
 
 ---
 
-### **Repository Description (for GitHub About section):**
-`Industry-grade Retail AI System. Features Hybrid Demand Forecasting (Random Forest/Croston), Prescriptive Price Optimization, ABC-XYZ Inventory Science, and an outstanding Executive Dashboard for real-world supply chain intelligence.`
+
